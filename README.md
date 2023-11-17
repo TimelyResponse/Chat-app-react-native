@@ -1,6 +1,4 @@
-<p align="center">
-  ⚠️⚠️ Currently not maintained, please fork or look for alternatives ⚠️⚠️
-</p>
+
 <h1 align="center">React Native Chat App</h1>
 
 <p align="center">
